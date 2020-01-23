@@ -5,7 +5,7 @@ require "vendor/autoload.php";
 
 $nama_database = "naive-bayes";
 $username_database = "root";
-$password_database = "anyand32";
+$password_database = "";
 $tipe_database = "mysql";
 $hostname_database = "localhost";
 
